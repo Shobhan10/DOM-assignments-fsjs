@@ -216,7 +216,7 @@
 
 ![Task 10 solution](./Task10-sol.png)
 
-11. Webiste Name: [realme](https://www.realme.com/in/)
+<!-- 11. Webiste Name: [realme](https://www.realme.com/in/)
 
 ### Topics
 
@@ -394,4 +394,4 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-![Output](./Pic39.png)
+![Output](./Pic39.png) -->
